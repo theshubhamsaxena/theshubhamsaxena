@@ -1,0 +1,9 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"RPA" : "90",
+		"Workfusion" : "80",
+		"UiPath" : "70",
+		"Java" : "80"
+	}
+}

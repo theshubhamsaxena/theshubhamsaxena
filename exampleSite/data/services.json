@@ -1,0 +1,15 @@
+{
+	"title" : "Projects",
+	"services" : [
+		{
+			"icon" : "code",
+			"title" : "Policy Issuance - RPA",
+			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+		},
+		{
+			"icon" : "file-code",
+			"title" : "MSL",
+			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+		}
+	]
+}

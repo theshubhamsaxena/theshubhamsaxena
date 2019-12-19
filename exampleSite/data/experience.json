@@ -1,0 +1,16 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "July 2018 - Present",
+			"company" : "Xceedance",
+			"website": "https://xceedance.com/",
+			"description" : "Working here as a Programmer Analyst / RPA Developer."
+		},
+		{
+			"timeperiod" : "December 2017 - June 2018",
+			"company" : "Google",
+			"description" : "Worked here as a Implementation Analyst."
+		}
+	]
+}
